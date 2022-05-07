@@ -9,4 +9,3 @@ def select_sort(numbers):
         numbers[x], numbers[min_index] = numbers[min_index], numbers[x]
 
     return numbers
-# comment
